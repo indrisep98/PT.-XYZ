@@ -38,7 +38,7 @@
 					<div class="banner1">
 			<div class="login-banner">
 				<div class="banner-cover">
-					<h2 class="header-w3ls"> Aplikasi Inventaris Perangkat Teknologi</h2>
+					<h2 class="header-w3ls"> Aplikasi Pengolahan Peralatan Teknologi</h2>
 			
 						<div class="login-page">
        	  					<div class="login-main">  	
@@ -67,8 +67,7 @@
 				</div>
 				<br>
 				<div class="copy">
-					<p>&copy;2019 Web Inventaris Bag Teknologi. All Rights Reserved | 
-						<a href="http://www.posindonesia.go.id" target="_blank">PT Pos Indonesia</a>
+					<p>&copy;2019 PT XYZ. All Rights Reserved
 					</p>
 				</div>
 			</body>

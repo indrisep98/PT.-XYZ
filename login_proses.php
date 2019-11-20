@@ -27,7 +27,7 @@ if($cek > 0){
         $_SESSION['username'] = $username;
         $_SESSION['level'] = "Admin";
         // alihkan ke halaman dashboard admin
-        header("location:Pengguna/index.php");
+        header("location:admin/index.php");
  
     // cek jika user login sebagai pengurus
     }else if($data['level']=="Manajer"){
